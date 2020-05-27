@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counting App</string>
+    <string name="count_odds">Count by Odds</string>
+    <string name="count_evens">Count by Evens</string>
+</resources>
